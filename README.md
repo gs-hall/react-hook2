@@ -1,2 +1,2 @@
-# netology-react-hook2
+# react-hook2
 useJsonFetch
